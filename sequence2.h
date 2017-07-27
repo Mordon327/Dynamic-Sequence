@@ -16,8 +16,6 @@
 //    Assignments and the copy constructor may be used with sequence objects.
 //
 
-#ifndef MAIN_SAVITCH_SEQUENCE_H
-#define MAIN_SAVITCH_SEQUENCE_H
 #include <iostream>
 using namespace std;
 
